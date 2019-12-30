@@ -12,21 +12,21 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="txt/Cookie/Cookie-Regular.ttf" href="txt/Raleway/Raleway-Regular.ttf" href="txt/Raleway/Raleway-Bold.ttf" href="txt/Raleway/Raleway-SemiBold.ttf">
-    <link href="https://fonts.googleapis.com/css?family=Cookie|Raleway:400,600,700|Roboto:400,700&display=swap"
-        rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Cookie|Raleway:400,600,700|Roboto:400,700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/animate.css">
 </head>
 <body>
     <div class="container1">
-        <ul class="home" id="home">
+        <ul class="home wow bounceInDown" id="home">
             <li><a href="#">BRUNCH</a></li>
         </ul>
-            <ul class="menu" id="menu">
+            <ul class="menu wow bounceInUp" id="menu">
                 <li><a href="#">welcome</a></li>
                 <li><a href="#top">menu</a></li>
                 <li><a href="#">events</a></li>
                 <li><a href="#">contacts</a></li>
             </ul>  
-            <section class="center">
+            <section class="center wow bounceIn">
                 <div class="cen" id="cen">
                     <ul>
                     <li><a class="brunch" href="#">Brunch</a></li>
@@ -81,7 +81,7 @@
             </div>
                 </section>
                 <section class="container4">
-                    <div class="block2">
+                    <div class="block2 wow flipInX">
                         <div class="head">
                             <h3 id=head1>India</h3>
                             <h3 id=head2>On your plate</h3>
@@ -189,7 +189,7 @@
                             <h3 id="head2">our new menu</h3>
                         </div>
                         <div class="block5">
-                            <ul class="sekt1">
+                            <ul class="sekt1 wow rollIn">
                                 <li class="sekt01">
                                     <div class="image"><img src="img/et/cik.png"></div>
                                     <h3>Tikka chicken</h3>
@@ -210,7 +210,7 @@
                                         adipisicing elit sed do oculis <span>$12.95</span></p>
                                 </li>
                             </ul>
-                            <ul class="sekt2">
+                            <ul class="sekt2 wow rollIn">
                                 <li class="sekt02">
                                     <div class="image"><img src="img/et/sp.png"></div>
                                     <h3>Soup of the day</h3>
@@ -305,7 +305,7 @@
                             <h2 id="head1">Discover</h2>
                             <h2 id="head2">our new menu</h2>
                         </div>
-                        <div class="block9">
+                        <div class="block9 wow bounceInUp">
                             <div class="bl">
                                 <div class="bl">
                                     <div class="ig"><img src="img/icon/ms.png"></div>
@@ -399,8 +399,9 @@
 
                 </div>
                 </footer>
-                <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
-                <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
-                <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+                <script src="./wow.min.js"></script>
+                <script>
+                    new WOW().init();
+                    </script>
 </body>
 </html>
