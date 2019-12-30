@@ -29,6 +29,7 @@ body{
 .menu  li a{
 	color:#d1d5d6;
 	font-family: 'Raleway', bold;
+	font-weight: Bold;
 	font-size: 25px;
 	text-decoration: none;
 	text-transform: uppercase;
@@ -58,6 +59,7 @@ body{
 .home  li a{
 	color:#d1d5d6;
 	font-family: 'Raleway', bold;
+	font-weight: Bold;
 	font-size: 25px;
 	text-decoration: none;
 	text-transform: uppercase;
@@ -104,6 +106,7 @@ body{
 .container1 .center .brunch{
 	color:#2c3a42;
 	font-family: 'Cookie', Regular;
+	font-weight: regular;
 	font-size: 104px;
 	
 	
@@ -112,6 +115,8 @@ body{
 .container1 .center .site{
 	color:#ad6c12;
 	font-family: 'Raleway', SemiBold;
+	font-weight: Bold;
+	font-weight: semibold;
 	font-size: 79px;
 	text-transform: uppercase;
 	
@@ -140,6 +145,7 @@ body{
 }
 .container1 .center .read li{
 	font-family: 'Raleway', bold;
+	font-weight: Bold;
 	font-size: 30px;
 	margin-top: -5px;
 	width: 100%;
@@ -181,6 +187,7 @@ body{
 .container2 p{
 	display: inline-block;
 	font-family: 'Raleway', Regular;
+	font-weight: Regular;
 	font-size: 19px;
 	color:#c6cbcc;
 	margin-left: 100px;
@@ -255,6 +262,7 @@ margin-top: 102px;
 .container4 .head #head1{
 	font-size: 77px;
 	font-family: 'Cookie', Regular; 
+	font-weight: Regular;
 	max-height: 65px;
 	text-align: center;
 	color:#26363a;
@@ -263,6 +271,7 @@ margin-top: 102px;
 .container4 .head #head2{
 	font-size: 43px;
 	font-family: 'Raleway', Regular;
+	font-weight: Regular;
 	text-transform: uppercase;
 	text-decoration: none;
 	color:#ad6c12;
@@ -299,6 +308,7 @@ margin-top: 102px;
 	text-align: center;
 	padding-top: 6%;
 	font-family: 'Raleway', Regular;
+	font-weight: Regular;
 }
 .container4 .sekt1 .hh{
 	text-transform: uppercase;
@@ -328,6 +338,7 @@ margin-top: 102px;
 	text-align: center;
 	padding-top: 6%;
 	font-family: 'Raleway', Regular;
+	font-weight: Regular;
 }
 .container4 .sekt2{
 	display: inline-block;
@@ -349,6 +360,7 @@ margin-top: 102px;
 	text-align: center;
 	padding-top: 6%;
 	font-family: 'Raleway', Regular;
+	font-weight: Regular;
 	
 }
 .container4 .sekt2 #kb6{
@@ -374,6 +386,7 @@ margin-top: 102px;
 	text-align: center;
 	padding-top: 6%;
 	font-family: 'Raleway', Regular;
+	font-weight: Regular;
 	
 }
 .container4 .sekt2 #kb8{
@@ -421,6 +434,7 @@ margin-top: 102px;
 	text-align: center;
 	padding-top: 6%;
 	font-family: 'Raleway', Regular;
+	font-weight: Regular;
 }
 .container4 .sekt3 #kb11{
 	margin-top: auto;
@@ -444,6 +458,7 @@ margin-top: 102px;
 	text-align: center;
 	padding-top: 6%;
 	font-family: 'Raleway', Regular;
+	font-weight: Regular;
 }
 .container5{
 	background-color: #d4d8d9;
@@ -466,6 +481,7 @@ margin-top: 102px;
 	text-align: center;
 	font-size: 39px;
 	font-family: 'Raleway', Bold;
+	font-weight: Bold;
 }
 .container5 ul{
 	display: flex;
@@ -486,6 +502,7 @@ margin-top: 102px;
 	text-align: center;
 	font-size: 18px;
 	font-family: 'Raleway', Regular;
+	font-weight: Regular;
 }
 .container5 .tex{
 	padding-top: 80px;
@@ -510,6 +527,7 @@ margin-top: 102px;
 .container5 a{
 	color: #2a3b40;
 	font-family: 'Raleway', Bold;
+	font-weight: Bold;
 	text-transform: uppercase;
 	font-size: 10px;
 	text-decoration: none;
@@ -520,6 +538,7 @@ margin-top: 102px;
 .container5 a h3{
 	font-size: 16px;
 	font-family: 'Raleway', Bold;
+	font-weight: Bold;
 	text-transform: uppercase;
 	color: #2a3b40;
 }
@@ -543,13 +562,15 @@ margin-top: 102px;
 .container6 .block4 .head #head1{
 font-size: 77px;
 font-family: 'Cookie', Regular;
+font-weight: Regular;
 max-height: 65px;
 text-align: center;
 color: #26363a;
 }
 .container6 .block4 .head #head2{
     font-size: 47px;
-    font-family: 'Raleway', Regular;
+	font-family: 'Raleway', Regular;
+	font-weight: Regular;
     text-transform: uppercase;
     text-decoration: none;
     color: #ad6c12;
@@ -587,16 +608,19 @@ color: #26363a;
 .container6 .block5 .sekt1 .sekt01 p{
 	padding-left: 100px;
 	font-family: 'Raleway', Regular;
+	font-weight: Regular;
 	font-size: 16px;
 }
 .container6 .block5 .sekt1 .sekt01 h3{
 	padding-left: 100px;
 	font-family: 'Raleway', Bold;
+	font-weight: Bold;
 	text-transform: uppercase;
 	font-size: 18px;
 }
 .container6 .block5 .sekt1 .sekt01 p span{
 	font-family: 'Raleway', Bold;
+	font-weight: Bold;
 	font-size: 20px;
 }
 .container6 .block5 .sekt2{
@@ -624,16 +648,19 @@ color: #26363a;
 .container6 .block5 .sekt2 .sekt02 p{
 	padding-left: 100px;
 	font-family: 'Raleway', Regular;
+	font-weight: Regular;
 	font-size: 16px;
 }
 .container6 .block5 .sekt2 .sekt02 h3{
 	padding-left: 100px;
 	font-family: 'Raleway', Bold;
+	font-weight: Bold;
 	text-transform: uppercase;
 	font-size: 18px;
 }
 .container6 .block5 .sekt2 .sekt02 p span{
 	font-family: 'Raleway', Bold;
+	font-weight: Bold;
 	font-size: 20px;
 }
 .container7{
@@ -651,6 +678,7 @@ color: #26363a;
 	color: #ffffff;
 	font-size: 77px;
 	font-family: 'Cookie', Regular;
+	font-weight: Regular;
 
 }
 .container8 .block6 .txt{
@@ -700,6 +728,7 @@ color: #26363a;
 	font-size: 17px;
 	color: #ffffff;
 	font-family: 'Raleway', Bold;
+	font-weight: Bold;
 
 }
 .container8 .block7 .lef li{
@@ -712,6 +741,7 @@ color: #26363a;
 	color: #ffffff;
 	padding-left: 3px;
 	font-family: 'Raleway', Bold;
+	font-weight: Bold;
 	max-width: 100%;
 }
 .container8 .block7 svg{
@@ -787,13 +817,15 @@ color: #26363a;
 .container10 .block8 .head #head1{
 font-size: 77px;
 font-family: 'Cookie', Regular;
+font-weight: Regular;
 max-height: 65px;
 
 color: #26363a;
 }
 .container10 .block8 .head #head2{
     font-size: 47px;
-    font-family: 'Raleway', Regular;
+	font-family: 'Raleway', Regular;
+	font-weight: Regular;
     text-transform: uppercase;
     text-decoration: none;
     color: #ad6c12;
@@ -834,18 +866,22 @@ color: #26363a;
 .container10 .block9 .bl .tx01{
 	font-size: 14px;
 	font-family: 'Raleway', Bold;
+	font-weight: Bold;
 }
 .container10 .block9 .bl h3{
 	font-size: 17px;
 	font-family: 'Raleway', Bold;
+	font-weight: Bold;
 }
 .container10 .block9 .bl .tx02{
 	font-size: 17px;
 	font-family: 'Raleway', Regular;
+	font-weight: Regular;
 }
 .container10 .block9 .bl a{
 	font-size: 14px;
 	font-family: 'Raleway', Bold;
+	font-weight: Bold;
 	text-decoration: none;
 	color:#26363a;
 }
@@ -885,10 +921,12 @@ color: #26363a;
 	padding-top:15px;
 	font-size: 18px;
 	font-family: 'Raleway', Regular;
+	font-weight: Regular;
 	
 }
 .container11 h3{
 	font-family: 'Raleway', Bold;
+	font-weight: Bold;
 	font-size: 18px;
 }
 .container11 .txt{
@@ -938,11 +976,13 @@ color: #26363a;
 .container11 .block11 .fot p{
 	font-size: 18px;
 	font-family: 'Raleway', Regular;
+	font-weight: Regular;
 	color:#2a3b40;
 }
 .container11 .block11 .fot h3{
 	font-size: 25px;
 	font-family: 'Raleway', Bold;
+	font-weight: Bold;
 	color:#2a3b40;
 }
 .container11 .block11 .fot2{
@@ -964,24 +1004,28 @@ color: #26363a;
 .container11 .block11 .fot2 .hh{
 	font-size: 20px;
 	font-family: 'Raleway', Bold;
+	font-weight: Bold;
 	text-transform: uppercase;
 	margin-bottom: 30px;
 }
 .container11 .block11 .fot2 .hh1{
 	font-size: 20px;
 	font-family: 'Raleway', Bold;
+	font-weight: Bold;
 	line-height: 1px;
 	
 }
 .container11 .block11 .fot2 .hhh{
 	font-size: 20px;
 	font-family: 'Roboto', Regular;
+	font-weight: Regular;
 	text-transform: uppercase;
 	margin-bottom: 30px;
 }
 .container11 .block11 .fot2 .hhh1{
 	font-size: 20px;
 	font-family: 'Roboto', Regular;
+	font-weight: Regular;
 	line-height: 1px;
 }
 .container11 .block10 .icon .face:hover{
